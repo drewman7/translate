@@ -1,0 +1,52 @@
+<!-- Applies to everything -->
+* {
+	font-family: "Lucida Sans Unicode", 'Lucida Grande', sans-serif;
+	color: #666666;
+}
+
+<!-- Applies to the page title -->
+.title-format{
+	margin-top: 45px;
+	margin-bottom: 30px;
+	font-size: 48px;
+}
+
+<!-- Applies to the subtitles -->
+.subtitle-format{
+	color: #F07C17;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	font-size: 24px;
+}
+
+<!-- Applies to column with the picture -->
+.pic-column-width{
+	max-width: 100%;
+}
+
+<!-- Applies to Main Features box -->
+.black-border{
+	margin-top: 30px;
+	border: solid #CCCCCC 1px;
+	max-width: 500px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+<!-- Applies to list text and the right hand paragraphs -->
+.text-body-format{
+	line-height: 2;
+	font-size: 16px;
+	padding-right: 0px;
+}
+
+<!-- Applies to the right hand text column -->
+.format-adjust{
+	padding-left: 0px;
+}
+
+<!-- Applies to list in the Main Features -->
+.format-adjust-20{
+	padding-left: 40px;
+}
